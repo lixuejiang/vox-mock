@@ -1,0 +1,13 @@
+{
+  "name": "vox",
+  "version": "0.0.2",
+  "description": "",
+  "main": "main.431d6380e4eb0fcc20c2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ship": "cship -p js/*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
